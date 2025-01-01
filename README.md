@@ -1,4 +1,4 @@
-# aix-deep-learning
+# AIX-Deep-Learning
 aix 팀프로젝트-영화리뷰 감성 분석
 
 ## 주제
